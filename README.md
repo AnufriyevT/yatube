@@ -1,2 +1,2 @@
 # yatube
-## Bloggers social network
+## Social network
